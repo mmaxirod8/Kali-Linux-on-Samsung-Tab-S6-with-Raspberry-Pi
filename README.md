@@ -1,4 +1,4 @@
-# Kali Linux on Tab s6 with Raspberry Pi
+# Kali Linux on Tab S6 with Raspberry Pi
 ### 📌 Here you can see how I implemented a Raspberry Pi Zero 2 W with Kali Linux OS using a Samsung tablet Tab S6 Lite 2022 Edition as monitor (Hacking without a "PC")
 
 
