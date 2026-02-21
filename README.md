@@ -21,7 +21,7 @@ First, we need the following components to carry out the project:
 
 ### 🔎 What's the first step here?
 Once you have everything you need, proceed as follows:
-- Download "Raspberry Pi Imager" to your PC. This software allows you to install any operating system on your board; in this case, Kali Linux for the Raspberry Pi Zero 2W.
+- Download `Raspberry Pi Imager` to your PC from: https://www.raspberrypi.com/software/. This software allows you to install any operating system on your board; in this case, Kali Linux for the Raspberry Pi Zero 2W.
 - Once the app is installed, connect your SD card to an SD card reader and then connect the reader to your computer.
-- Return to the Raspberry Pi software and go to the "OS" or "Operating Systems" menu. Select "Other specific-purpose OS" and find "Kali Linux" among the options. Then, search for "Raspberry Pi Zero 2W" (Kali Linux ARM image for the Raspberry Pi Zero 2W).
+- Return to the Raspberry Pi software and go to the `OS` or "Operating Systems" menu. Select `Other specific-purpose OS` and find `Kali Linux` among the options. Then, search for `Raspberry Pi Zero 2W` (Kali Linux ARM image for the Raspberry Pi Zero 2W).
 -
